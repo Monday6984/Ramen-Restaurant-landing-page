@@ -8,9 +8,8 @@ The design was provided by Bahd Coder via Figma, I developed it making sure it l
 ## Screenshots
 ![Ramen Restaurant screenshot](./images/ramen.PNG)
 
-https://mobile-app-reg-screen.netlify.app
 
-## [Live Demo](https://mobile-app-reg-screen.netlify.app)
+## [Live Demo](https://ramen-restaurant-landing-page.netlify.app)
 
 ## Technologies
 * HTML5
